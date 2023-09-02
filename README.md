@@ -4,6 +4,9 @@ A simple implementation to "Search Your PDF App using Langchain, ChromaDB, and O
 
 
 Installation.
+
 #Make sure you have git-lfs installed (https://git-lfs.com)
-git lfs install
-git clone https://huggingface.co/MBZUAI/LaMini-T5-738M
+
+* git lfs install
+
+* git clone https://huggingface.co/MBZUAI/LaMini-T5-738M
